@@ -1,6 +1,6 @@
 .header {
-    background-color: white;
-    
+    background-color: rgb(255, 255, 255);
+
 }
 
 .meu-titulo {
@@ -9,12 +9,14 @@
     font-size: 40px;
 }
 
-.primeiro-paragrafo {
-    font-size: 30px;
-    color: blue;
+.divzinho {
+    background-color: tomato;
+    height: 400px;
+   
 }
 
-.ultimo-paragrafo {
-    font-size: 25px;
-    color: rgb(2, 187, 2);
+.DivSegunda {
+background-color: yellowgreen;
+height: 100px;
+width: 100px;
 }
