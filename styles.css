@@ -12,6 +12,8 @@
 .divzinho {
     background-color: tomato;
     height: 400px;
+    display: grid;
+    align-content: space-between;
    
 }
 
