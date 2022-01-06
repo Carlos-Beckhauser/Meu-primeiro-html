@@ -11,14 +11,27 @@
 
 .divzinho {
     background-color: tomato;
-    height: 400px;
-    display: grid;
-    align-content: space-between;
+    height: 500px;
+    
+ display: flex;
+
+ justify-content: center;
+    column-count: 3;
+    column-gap: 500px;
+    
+    
    
 }
 
 .DivSegunda {
-background-color: yellowgreen;
+
 height: 100px;
-width: 100px;
+width: 300px;
+border: 1px solid black;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
 }
