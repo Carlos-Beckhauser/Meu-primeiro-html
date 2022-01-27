@@ -6,7 +6,6 @@
 
 body {
     background-color: rgb(38, 76, 241);
-    position: relative;
 }
 
 .meu-titulo {
@@ -38,7 +37,12 @@ body {
     background-color: tomato;
     width: 300px;
     height: 300px;
-    position: relative;
+    position: absolute;
+    right: 50%;
+    transform: translate(50%, 50%);
+    bottom: 50%;
+    
+    
 }
 
 .bola {
