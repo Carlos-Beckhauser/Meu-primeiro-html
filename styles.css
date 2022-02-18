@@ -5,10 +5,10 @@
 } */
 
 body {
-    background-color: rgb(38, 76, 241);
+    background-color: rgb(255, 255, 255);
 }
 
-.meu-titulo {
+/* .meu-titulo {
     font-style: italic;
     color: rgb(255, 255, 255);
     font-size: 40px;
@@ -64,3 +64,4 @@ body {
     justify-content: center;
     column-gap: 30%;
 }
+ */
