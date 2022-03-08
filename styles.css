@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0%;
     padding: 0%;
     border: 0%;
@@ -14,9 +14,9 @@ body {
     font-size: 40px;
    text-align: center;
 }
+ */
 
-
-
+/* 
 .first {
     font-size: 30px;
     color: greenyellow;  
@@ -30,10 +30,10 @@ body {
 .third {
     font-size: 30px;
     color: rgb(242, 255, 57);
-}
+} */
 
 
-.caixa {
+/* .caixa {
     background-color: tomato;
     width: 300px;
     height: 300px;
@@ -43,9 +43,9 @@ body {
     bottom: 50%;
     
     
-}
+} */
 
-.bola {
+/* .bola {
     background-color: rgb(223, 233, 87);
     width: 100px;
     height: 100px;
@@ -54,13 +54,14 @@ body {
     bottom: 50%;
     transform: translate(50%, 50%);
     right: 50%;
-}
+} */
 
-.posicao {
+/* .posicao {
     
     display: grid;
     grid-template-columns: auto auto auto;
     align-items: center;
     justify-content: center;
     column-gap: 30%;
-}
+} */
+
